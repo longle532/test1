@@ -1,0 +1,49 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin: auto;}
+.tong{
+	width: 960px;
+	height: 117px;
+	border: solid 1px white;
+}
+.tren{
+	background: url("../images/6.png");
+	background-size: 960px 75px;
+	width: 960px;
+	height: 75px;
+}
+.t{
+	float: left;
+	padding-top: 4px;
+	padding-left: 7px;
+}
+.p{
+	float: left;
+	padding-top: 17px;
+}
+.phai{
+	float: right;
+	padding-right: 15px;
+	padding-top: 7px;
+}
+.duoi{
+	background: url("../images/7.png");
+	background-size: 960px 43px;
+	width: 960px; 
+	height: 43px;
+}
+.n{
+	float: left;
+	padding-left: 90px;
+	padding-top: 14px;
+}
+nav a{
+	text-decoration: none;
+	font-family: arial;
+	font-size: 11px;
+	color: white; 
+	padding-left: 10px
+}
+nav{
+	padding-top: 11px;
+}
